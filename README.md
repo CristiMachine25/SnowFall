@@ -1,4 +1,4 @@
-# SnowFall ❄️
+# SnowFall - EARLY ALPHA ❄️
 
 **A magical macOS menu bar app that brings the holiday spirit to your desktop with falling snow and twinkling Christmas lights.**
 
